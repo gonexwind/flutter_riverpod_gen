@@ -1,0 +1,24 @@
+name: template_gen
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter_riverpod:
+  freezed_annotation:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  freezed:
+  build_runner:
+  flutter_gen_runner:
+  riverpod_generator:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
