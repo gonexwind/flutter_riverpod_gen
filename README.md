@@ -1,3 +1,2 @@
-# template_gen
+# Flutter Riverpod Generator
 
-A new Flutter project.
