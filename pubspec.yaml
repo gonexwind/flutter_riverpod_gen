@@ -4,9 +4,10 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: '>=3.3.3 <4.0.0'
+  sdk: 3.5.3
 
 dependencies:
+  json_annotation:
   flutter_riverpod:
   freezed_annotation:
   flutter:
@@ -15,6 +16,7 @@ dependencies:
 dev_dependencies:
   freezed:
   build_runner:
+  json_serializable:
   riverpod_generator:
   flutter_test:
     sdk: flutter
