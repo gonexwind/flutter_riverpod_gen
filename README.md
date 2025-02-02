@@ -1,2 +1,0 @@
-# Flutter Riverpod Generator
-
